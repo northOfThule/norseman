@@ -1,0 +1,39 @@
+baseurl = "http://replace-this-with-your-domain.com/"
+languageCode = "en-us"
+title = "Norsemans guide to Thule"
+theme = "hugo-steam-theme"
+disqusShortname = "Norseman"
+paginate = 10
+
+[params]
+
+	title = "Norseman's"
+	subtitle = "guide to Thule"
+	copyright = ""
+
+	# You can choose between green, orange, red and blue.
+	themeColor = "blue"
+	# Enable Google Analytics be inserting your tracking code
+	googleAnalytics = ""
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Norseman"
+	bio = ""
+	description = "Your description of the blog"
+	location = "" # optional
+	twitter = "" # optional
+	github = "" # optional
+ 	gitlab = "" # optional
+
+	# Enable a comment system
+	# You can choose between Disqus or Google Plus by setting comments
+	# to disqus or googleplus. For using Disqus you need to enter your
+	# shortname in disqusShortname at the top of the configs. 
+	comments = ""
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
